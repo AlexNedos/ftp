@@ -1,0 +1,9 @@
+var likesModule = require(__dirname + '/modules/likes.js');
+var barModule = require(__dirname + '/modules/bar.js');
+var iapModule = require(__dirname + '/modules/iap.js');
+var ratingModule = require(__dirname + '/modules/rating.js');
+var onlineUpdateModule = require(__dirname + '/modules/onlineUpdate.js');
+var socketChat = require(__dirname + '/modules/chat.js');
+var passwordRecovery = require(__dirname + '/modules/passwordRecovery.js');
+var rooms_triggers = require(__dirname + '/modules/rooms_triggers.js');
+var rooms_cloudfuncs = require(__dirname + '/modules/rooms_cloudfuncs.js');
